@@ -2,7 +2,7 @@
 
 ## **CONTENTS**
 - **bls_projections.csv**: CSV file from the US Bureau of Labor Statistics containing data related to 2019 - 2029 occupational projections
-- **data_analysis**: My project in the form of a Jupyter Notebook 
+- **data_analysis.ipynb**: My project in the form of a Jupyter Notebook 
 
 ## **PURPOSE**
 - Describe the circumstances that led me to pursue a career in data analysis
