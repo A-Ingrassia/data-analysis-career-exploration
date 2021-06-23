@@ -1,4 +1,4 @@
-# data-analysis-project
+# data-analysis-career-exploration
 
 ## **CONTENTS**
 - **bls_projections.csv**: CSV file from the US Bureau of Labor Statistics containing data related to 2019 - 2029 occupational projections
