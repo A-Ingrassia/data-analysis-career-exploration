@@ -10,7 +10,7 @@
 
 - **personal_info.ipynb**: Jupyter Notebook containing personal information (my educational background, why I chose to pursue data analysis, etc.)
 
-- **growth.png** & **openings.png**: Saved images of the data visualizations generated in "career_analysis.ipynb"
+- **growth.png** & **openings.png**: Saved images of the data visualizations generated in "career_analysis.ipynb" (difficult to see in dark mode)
 
 ***
 
