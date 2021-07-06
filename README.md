@@ -2,15 +2,13 @@
 
 **PROJECT CONTENTS**
 
-- **bls_projections.csv**: CSV file from the US Bureau of Labor Statistics containing data related to 2019 - 2029 occupational projections
+- ![**bls_projections.csv**](bls_projections.csv): CSV file from the US Bureau of Labor Statistics containing data related to 2019 - 2029 occupational projections
 
-- **bls_growth.csv**: A cleaned version of "bls_projections.csv" containing only data relevant to this project
+- ![**bls_growth.csv**](bls_growth.csv): A cleaned version of "bls_projections.csv" containing only data relevant to this project
 
-- **career_analysis.ipynb**: Jupyter Notebook containing an overview of the BLS dataset, as well as my efforts to clean the data, generate visualizations, etc.
+- ![**career_analysis.ipynb**](career_analysis.ipynb): Jupyter Notebook containing an overview of the BLS dataset, as well as my efforts to clean the data, generate visualizations, etc.
 
-- **personal_info.ipynb**: Jupyter Notebook containing personal information (my educational background, why I chose to pursue data analysis, etc.)
-
-- **growth.png** & **openings.png**: Saved images of the data visualizations generated in "career_analysis.ipynb" (difficult to see in dark mode)
+- ![**personal_info.ipynb**](personal_info.ipynb): Jupyter Notebook containing personal information (my educational background, why I chose to pursue data analysis, etc.)
 
 ***
 
