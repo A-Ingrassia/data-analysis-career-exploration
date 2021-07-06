@@ -48,7 +48,7 @@ when compared to the other occupational categories in the top 20 - but the home 
 
 ***
 
-**INSIGHTS**
+**CRITICAL INSIGHTS**
 
 - Data analysis related careers are in high demand, and that demand is projected to increase between now and 2029.
 
