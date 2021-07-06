@@ -35,7 +35,7 @@
 
 ![Occupation Growth](growth.png)
 
-- Notice, however, that a high percentage of employment growth doesn't necessarily translate to a large number of annual opening.
+- Notice, however, that a high percentage of employment growth doesn't necessarily translate to a large number of annual openings.
 
 - Some industries are smaller than others. For example, the projected 60.7% increase in wind turbine maintenance related employment growth ("A") represents only 
 1,300 annual openings, whereas the projected 22.9% increase in service unit operation related employment growth ("T") represents 8,100 annual openings.
