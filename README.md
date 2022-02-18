@@ -8,25 +8,16 @@
 
 - ![**career_analysis.ipynb**](career_analysis.ipynb): Jupyter Notebook containing an overview of the BLS dataset, as well as my efforts to clean the data, generate visualizations, etc.
 
-- ![**personal_info.ipynb**](personal_info.ipynb): Jupyter Notebook containing personal information (my educational background, why I chose to pursue data analysis, etc.)
-
 ***
 
-**PROJECT GOALS**
+**PROJECT GOAL**
 
 - Investigate the demand for data analysts using data from the US Bureau of Labor Statistics (the principal fact-finding agency for the US government in the broad field of labor economics and statistics).
-
-- Demonstrate a basic understanding of data analysis tools, concepts, and techniques.
-
-- Practice my newly acquired data analysis skills by putting them to use in the context of a real-world project of personal significance.
-
-- Describe the circumstances that led me to pursue a career in data analysis.
-
-- Convey my suitability for a career in data analysis.
 
 ***
 
 **OVERVIEW**
+
 - Of the 790 occupation categories from the original BLS dataset, the 20 included in this study are the ones projected to experience the highest percentage of employment growth between 2019 and 2029.
 
 - Data Analyst ("P") ranks 16th out of the original 790 categories.
